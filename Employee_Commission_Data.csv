@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Department,BasicSalary,SalesAmount
+EMP001,Alice,Sales,30000,45000
+EMP002,Brian,Sales,35000,75000
+EMP003,Carol,Marketing,32000,120000
+EMP004,David,Sales,40000,180000
+EMP005,Esther,Customer Service,28000,95000
+EMP006,Frank,Sales,45000,250000
+EMP007,Grace,Marketing,38000,55000
+EMP008,Henry,Sales,42000,320000
+EMP009,Irene,Customer Service,30000,40000
+EMP010,James,Sales,36000,150000
